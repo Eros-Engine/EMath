@@ -1,0 +1,2 @@
+# EMath
+Eros math library
